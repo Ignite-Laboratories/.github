@@ -1,5 +1,10 @@
-![logo](https://github.com/Ignite-Laboratories/.github/blob/main/profile/artwork_ignite-dark.png?raw=true#gh-light-mode-only)
-![logo](https://github.com/Ignite-Laboratories/.github/blob/main/profile/artwork_ignite-light.png?raw=true#gh-dark-mode-only)
+![logo](https://github.com/Ignite-Laboratories/.github/blob/main/profile/artwork_ignite_dark.png?raw=true#gh-light-mode-only)
+![logo](https://github.com/Ignite-Laboratories/.github/blob/main/profile/artwork_ignite_light.png?raw=true#gh-dark-mode-only)
+
+Home of JanOS
+
+![logo](https://github.com/Ignite-Laboratories/.github/blob/main/profile/artwork_janos_dark.png?raw=true#gh-light-mode-only)
+![logo](https://github.com/Ignite-Laboratories/.github/blob/main/profile/artwork_janos_light.png?raw=true#gh-dark-mode-only)
 
 <!--
 
