@@ -1,4 +1,5 @@
-![alt text](profile/atom_Full name.png)
+![alt text](https://github.com/Ignite-Laboratories/.github/blob/main/profile/logo-dark.png?raw=true#gh-light-mode-only)
+![alt text](https://github.com/Ignite-Laboratories/.github/blob/main/profile/logo-light.png?raw=true#gh-dark-mode-only)
 
 <!--
 
