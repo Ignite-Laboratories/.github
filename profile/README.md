@@ -1,4 +1,4 @@
-![alt text](atom_Full name.png)
+![alt text](profile/atom_Full name.png)
 
 <!--
 
